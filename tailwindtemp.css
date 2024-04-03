@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --bg1: #ff8009;
+    --bg2: #ea6217;
+    --bg3: #e7e7e7;
+    --col1: #fff;
+    --col2: #000;
+}
